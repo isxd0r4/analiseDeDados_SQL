@@ -1,1 +1,1 @@
-# analiseDeDados_SQL
+Este repositório reúne os projetos que desenvolvi enquanto estudava Análise de Dados com SQL, utilizando o PostgreSQL como principal ferramenta. O objetivo é documentar minha jornada de aprendizado, aplicando os principais conceitos da linguagem em problemas práticos de análise de dados.
